@@ -7,7 +7,7 @@ Plugins:
 * Pipeline Utility Steps
 * AWS Credentials
 * AWS Steps
-* Rebuild
+* Rebuilder
 * Ansi Color
 * SonarScanner
 
